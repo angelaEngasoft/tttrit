@@ -1,0 +1,8 @@
+{
+  "name": "ionic-package-example",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "0f5289a9"
+}
